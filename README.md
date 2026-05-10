@@ -1,65 +1,56 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6B21A8,100:C084FC&height=200&section=header&text=Olá,%20sou%20Mylena%20Monteiro%20💜&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Back-End%20Developer%20em%20formação%20·%20Ciência%20da%20Computação&descAlignY=58&descSize=16&descColor=E9D5FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6B21A8,100:C084FC&height=120&section=header&text=Olá,%20sou%20Mylena%20Monteiro&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Back-End%20Developer%20em%20formação%20·%20Ciência%20da%20Computação&descAlignY=65&descSize=10&descColor=E9D5FF"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=C084FC&size=20&center=true&vCenter=true&width=800&pause=1000&lines=Estudante+de+Ciência+da+Computação+🖥️;Integrante+da+LAFTEC+🐝;Back-End+Developer+em+formação+⚙️;Transformando+ideias+em+código+💜;Evoluindo+um+commit+de+cada+vez+"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=C084FC&size=18&center=true&vCenter=true&width=800&pause=1000&lines=Estudante+de+Ciência+da+Computação+👩‍💻;Integrante+da+LAFTEC+🐝;Back-End+Developer+em+formação+⚙️;Transformando+ideias+em+código+💜;Evoluindo+um+commit+de+cada+vez+"/>
 </p>
 
-<br/>
+---
 
-## Sobre mim
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
-🎓 Graduanda em Ciência da Computação (3/8)  
-👩‍💻 Integrante da **LAFTEC** (Liga Acadêmica Feminina de Tecnologia)  
-🚀 Desenvolvendo projetos acadêmicos e aprimorando habilidades na área da computação  
+###  Sobre mim
+
+
+🎓 Graduanda em Ciência da Computação (3/8) 
+
+👩‍💻 Integrante da **LAFTEC** (Liga Acadêmica Feminina de Tecnologia)
+
+🚀 Desenvolvendo projetos acadêmicos e aprimorando habilidades  
+
 🧠 Interesse em Back-End, desenvolvimento de software e tecnologia  
+
 ✨ Apaixonada por aprender, criar e transformar ideias em projetos reais  
 
-<br/>
+</td>
+    <td valign="top" width="55%">
 
----
+### Tecnologias & Ferramentas
 
-## Tecnologias & Ferramentas
-
-<div align="left">
-  
-
-Front-End
-
+**Front-End**  
 <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
 
-
-
-Back-End & Linguagens
-
+**Back-End & Linguagens**  
 <img src="https://skillicons.dev/icons?i=python,java,c,nodejs,express,typescript&theme=dark"/>
 
-
-
-Banco de Dados
-
+**Banco de Dados**  
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,neo4j&theme=dark"/>
 
-
-
-Ferramentas
-
+**Ferramentas**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
 
-
-</div>
-
-<br/>
+</td>
+  </tr>
+</table>
 
 ---
 
-## Atualmente
-
-- 📚 Aprofundando conhecimentos em desenvolvimento **Back-End**
-- 🛠️ Construindo projetos acadêmicos e pessoais  
-- 🔍 Explorando **Node.js**, **APIs REST** e boas práticas de software  
-- 🌙 Evoluindo um commit de cada vez
-
-<br/>
+##
+-  Aprofundando conhecimentos em desenvolvimento **Back-End**
+-  Construindo projetos acadêmicos e pessoais
+-  Explorando **Node.js**, **APIs REST** e boas práticas de software
+-  Evoluindo um commit de cada vez
 
 ---
 
@@ -77,12 +68,10 @@ Ferramentas
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=monteiromylena&color=7C3AED&style=flat-square&label=Visitas+ao+perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=Okmylena&color=7C3AED&style=flat-square&label=Visitas+ao+perfil"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:6B21A8,100:1a0033&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C084FC,50:6B21A8,100:1a0033&height=125&section=footer"/>
