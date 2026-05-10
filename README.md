@@ -1,73 +1,65 @@
-<h1 align="center">Olá! Eu sou a Mylena 💜</h1>
-<img src="https://readme-typing-svg.herokuapp.com/?color=BA55D3&size=30&center=true&vCenter=true&width=1000&lines=Bem-vinda+ao+meu+perfil!;Estudante+de+Ciência+da+Computação;Apaixonada+por+tecnologia+💜"/>
+<h1 align="center"> Olá, eu sou a Mylena 💜</h1>
+
 <p align="center">
-Estudante de Ciência da Computação apaixonada por tecnologia, desenvolvimento e inovação.
+<img src="https://readme-typing-svg.herokuapp.com/?color=C084FC&size=24&center=true&vCenter=true&width=1000&lines=Estudante+de+Ciência+da+Computação;Integrante+da+LAFTEC;Explorando+o+mundo+da+tecnologia+✨;Back-End+Developer+em+formação;Transformando+ideias+em+código+💜"/>
 </p>
 
 ---
 
-## 🌸 Sobre mim
+<div align="center">
 
-🎓 Graduanda em Ciência da Computação (3/8)  
-👩‍💻 Integrante da LAFTEC — Liga Acadêmica Feminina de Tecnologia  
-🚀 Desenvolvendo projetos acadêmicos e explorando novas tecnologias  
-💡 Interesse nas áreas de Back-End, computação e desenvolvimento de software  
-📚 Sempre em busca de aprendizado, evolução e novos desafios na tecnologia  
+### 🌙 Sobre mim
+
+💻 Graduanda em Ciência da Computação (3/8)
+👩‍💻 Integrante da **LAFTEC** — Liga Acadêmica Feminina de Tecnologia  
+🚀 Desenvolvendo projetos acadêmicos e aprimorando habilidades na área da computação  
+🧠 Interesse em Back-End, desenvolvimento de software e tecnologia  
+✨ Apaixonada por aprender, criar e transformar ideias em projetos reais  
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Tecnologias & Ferramentas
 
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-
-</p>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Okmylena&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okmylena&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,c,java,nodejs,express,mysql,mongodb,git,github,vscode"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
-
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Okmylena&theme=tokyonight&hide_border=true"/>
+## Atualmente
+
+📚 Aprendendo mais sobre desenvolvimento Back-End  
+🛠️ Construindo projetos acadêmicos e pessoais  
+🌙 Evoluindo um commit de cada vez  
 
 </div>
 
 ---
+
+<div align="center">
 
 ## 🌐 Conecte-se comigo
 
-<p align="left">
-
 <a href="www.linkedin.com/in/monteiromylena">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="www.instagram.com/okmylena/">
+<img src="https://img.shields.io/badge/Instagram-C084FC?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
-✨ “Transformando aprendizado em projetos e ideias em código.” ✨
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C084FC&height=120&section=footer"/>
+
+</div>
