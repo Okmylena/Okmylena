@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6B21A8,100:C084FC&height=200&section=header&text=Olá,%20eu%20sou%20Mylena%20Monteiro%20
-  fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Back-End%20Developer%20em%20formação%20·%20Ciência%20da%20Computação&descAlignY=58&descSize=16&descColor=E9D5FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6B21A8,100:C084FC&height=200&section=header&text=Olá,%20eu%20sou%20Mylena%20Monteiro%20💜&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Back-End%20Developer%20em%20formação%20·%20Ciência%20da%20Computação&descAlignY=58&descSize=16&descColor=E9D5FF"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=C084FC&size=20&center=true&vCenter=true&width=800&pause=1000&lines=Estudante+de+Ciência+da+Computação+👩‍💻;Integrante+da+LAFTEC+🚀;Back-End+Developer+em+formação+⚙️;Transformando+ideias+em+código+💜;Evoluindo+um+commit+de+cada+vez+🌙"/>
@@ -9,7 +8,7 @@
 
 ---
 
-## 🌙 Sobre mim
+## Sobre mim
 
 🎓 Graduanda em Ciência da Computação (3/8)  
 👩‍💻 Integrante da **LAFTEC** — Liga Acadêmica Feminina de Tecnologia  
@@ -21,7 +20,7 @@
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="left">
 
@@ -47,11 +46,7 @@
 
 ---
 
-## ⚡ Atualmente
-
-```bash
-$ ./mylena --status
-```
+## Atualmente
 
 - 📚 Aprofundando conhecimentos em desenvolvimento **Back-End**
 - 🛠️ Construindo projetos acadêmicos e pessoais  
