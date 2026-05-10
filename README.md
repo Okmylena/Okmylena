@@ -11,7 +11,7 @@
 ## Sobre mim
 
 🎓 Graduanda em Ciência da Computação (3/8)  
-👩‍💻 Integrante da **LAFTEC** — Liga Acadêmica Feminina de Tecnologia  
+👩‍💻 Integrante da **LAFTEC** (Liga Acadêmica Feminina de Tecnologia)  
 🚀 Desenvolvendo projetos acadêmicos e aprimorando habilidades na área da computação  
 🧠 Interesse em Back-End, desenvolvimento de software e tecnologia  
 ✨ Apaixonada por aprender, criar e transformar ideias em projetos reais  
@@ -23,22 +23,30 @@
 ## Tecnologias & Ferramentas
 
 <div align="left">
+  
 
-**Front-End**
+Front-End
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
 
-**Back-End & Linguagens**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,nodejs,express&theme=dark"/>
 
-**Banco de Dados**
+Back-End & Linguagens
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,nodejs,express,typescript&theme=dark"/>
 
-**Ferramentas**
+
+
+Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,neo4j&theme=dark"/>
+
+
+
+Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+
 
 </div>
 
