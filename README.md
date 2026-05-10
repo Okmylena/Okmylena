@@ -53,10 +53,13 @@
 -  Evoluindo um commit de cada vez
 
 ---
+<div align="center">
 
+  
 ## 🌐 Conecte-se comigo
 
-<div align="left">
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/monteiromylena">
   <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=C084FC&labelColor=1a0033"/>
